@@ -61,7 +61,7 @@
 
     <nav>
         <a href="#history">Computing History</a>
-        <a href="IT-Basics">IT Basics</a>
+        <a href="#IT-Basics">IT Basics</a>
         <a href="#why-it-matters">Whyt it Matters</a>
     </nav>
 
@@ -78,7 +78,7 @@
         </ul>
     </div>
 
-    <div class="it-basics-selection" id="IT-basics">
+    <div class="it-basics-selection" id= "IT-basics">
         <h2>What is IT?</h2>
         <p>Information Technology (IT) is all about using computers and networks to handle data and make things work faster and easier. IT is used in many different fields, such as:</p>
 
