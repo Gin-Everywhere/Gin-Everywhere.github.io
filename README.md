@@ -79,7 +79,7 @@
         </ul>
     </div>
 
-    <div class="it-basics-selection" id="it-basics">
+    <div class="it-basics-selection" id="IT-basics">
         <h2>What is IT?</h2>
         <p>Information Technology (IT) is all about using computers and networks to handle data and make things work faster and easier. IT is used in many different fields, such as:</p>
 
