@@ -1,6 +1,6 @@
 # Gin-Everywhere.github.io
 <HTML LANG="en">
-    <meta charset=UTF-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width-device-width, initial-scale=0.0">
     <title>Historical Perspective on Computing and IT Basics</title>
     <style>
