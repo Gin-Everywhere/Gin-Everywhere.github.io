@@ -98,8 +98,9 @@
                 <li>Productivity Software: applications that help with tasks, such as word processing, spreadsheet analysis, and presentation design Microsoft or Canvas</li>   
                 <li>Utility Software: programs that perform specific tasks, such as virus protection, disk formatting, and file compression</li>
            </ul>             
-
-    <div class="why-it-matters-section" id="why-it-matters">
+    </div>
+    
+    <div class="why-it-matters-section" id= "why-it-matters">
         <h2>Why IT Matters</h2>
         <p>Information Technology (IT) plays a vital role in our daily lives, from communication and education to healthcare and business. Here are some reasons why IT matters:</p>
     
