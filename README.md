@@ -62,7 +62,6 @@
     <nav>
         <a href="#history">Computing History</a>
         <a href="IT-Basics">IT Basics</a>
-        <a href="#key-concepts"></a>
         <a href="#why-it-matters">Whyt it Matters</a>
     </nav>
 
