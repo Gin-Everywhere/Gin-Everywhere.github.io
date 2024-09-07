@@ -55,9 +55,6 @@
             border-radius: 4px;
         }
     </style>
-
-</head>
-</body>
     <header>
         <h1>Welcome to computing and IT Basics</h1>
     </header>
