@@ -98,7 +98,6 @@
                 <li>Productivity Software: applications that help with tasks, such as word processing, spreadsheet analysis, and presentation design Microsoft or Canvas</li>   
                 <li>Utility Software: programs that perform specific tasks, such as virus protection, disk formatting, and file compression</li>
            </ul>             
-    </div>
 
     <div class="why-it-matters-section" id="why-it-matters">
         <h2>Why IT Matters</h2>
