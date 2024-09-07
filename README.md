@@ -78,7 +78,7 @@
         </ul>
     </div>
 
-    <div class="it-basics-selection" id= "IT-basics">
+    <div class="it-basics-selection" id= "IT-Basics">
         <h2>What is IT?</h2>
         <p>Information Technology (IT) is all about using computers and networks to handle data and make things work faster and easier. IT is used in many different fields, such as:</p>
 
@@ -98,7 +98,7 @@
                 <li>Productivity Software: applications that help with tasks, such as word processing, spreadsheet analysis, and presentation design Microsoft or Canvas</li>   
                 <li>Utility Software: programs that perform specific tasks, such as virus protection, disk formatting, and file compression</li>
            </ul>             
-
+    </div>
     <div class="why-it-matters-section" id="why-it-matters">
         <h2>Why IT Matters</h2>
         <p>Information Technology (IT) plays a vital role in our daily lives, from communication and education to healthcare and business. Here are some reasons why IT matters:</p>
