@@ -62,7 +62,7 @@
     <nav>
         <a href="#history">Computing History</a>
         <a href="#IT-Basics">IT Basics</a>
-        <a href="#why-it-matters">Whyt it Matters</a>
+        <a href="#why-it-matters">Why it Matters</a>
     </nav>
 
     <div class="history-selection" id= "history">
